@@ -11,7 +11,7 @@ A lightweight Python CLI tool that checks repositories for essential files and b
 - Accepts a project folder path as input.
 - Uses Python's standard library.
 
-## Requirements
+## Requirements 
 
 - Python 3.10 or later
 
